@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_68iwXV1aVpp_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">english_marleny</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="english_marleny_ORG">
+    <organization identifier="english_marleny_ORG">
+      <title>english_marleny</title>
+      <item identifier="english_SCO" isvisible="true" identifierref="__68iwXV1aVpp_course_id_RES">
+        <title>english_marleny</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__68iwXV1aVpp_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ieUn9coHPj_80_DX810_DY810_CX172_CY607.png" />
+      <file href="mobile/6Zce8oc4mAE_80_DX1440_DY1440_CX1080_CY669.png" />
+      <file href="mobile/6FzBeZ3u8Qy_80_DX810_DY810_CX199_CY427.png" />
+      <file href="mobile/5WZIEZ3eXLh_80_DX240_DY240_CX118_CY120.png" />
+      <file href="mobile/6TSa30gsYbH_80_DX238_DY238_CX111_CY119.png" />
+      <file href="mobile/5V8Oc5axDYC_80_DX242_DY242_CX92_CY121.png" />
+      <file href="mobile/6FCY4L8UvDP_80_DX302_DY302_CX151_CY68.png" />
+      <file href="mobile/6CtCXAsjzbY_80_DX240_DY240_CX108_CY120.png" />
+      <file href="mobile/6Z6hGQxeDNz_80_DX240_DY240_CX120_CY114.png" />
+      <file href="mobile/6NmptKJsgOo_80_DX200_DY200_CX100_CY97.png" />
+      <file href="mobile/6bSGHQftRFq_80_DX172_DY172_CX86_CY83.png" />
+      <file href="mobile/6JiGDoGYyNh_80_DX198_DY198_CX113_CY55.png" />
+      <file href="mobile/6JgSsRHhkYf_80_DX226_DY226_CX100_CY113.png" />
+      <file href="mobile/6fJ5kzO9tJm_80_DX200_DY200_CX106_CY76.png" />
+      <file href="mobile/6SomoXVUpid_80_DX174_DY174_CX104_CY86.png" />
+      <file href="mobile/67KItDPking_80_DX198_DY198_CX99_CY97.png" />
+      <file href="mobile/6neVLF8sw7d_80_DX340_DY340_CX170_CY99.png" />
+      <file href="mobile/5vzfToT50VW_80_DX296_DY296_CX148_CY131.png" />
+      <file href="mobile/5dv3eyQmin7_80_DX190_DY190_CX56_CY95.png" />
+      <file href="mobile/65W1UYdjoIR_80_DX276_DY276_CX138_CY120.png" />
+      <file href="mobile/5ZL69XVwqun_80_DX136_DY136_CX68_CY67.png" />
+      <file href="mobile/67KItDPking_X_80_DX198_DY198_CX99_CY97.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fexpQlP873.js" />
+      <file href="html5/data/js/5kBBeQWHDXR.js" />
+      <file href="html5/data/js/5oB7hhQ7fWJ.js" />
+      <file href="html5/data/js/5wM8Xw8tkWC.js" />
+      <file href="html5/data/js/5wVcPeOEZBh.js" />
+      <file href="html5/data/js/61bJRJhhCzv.js" />
+      <file href="html5/data/js/6SmYUpLU40q.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
